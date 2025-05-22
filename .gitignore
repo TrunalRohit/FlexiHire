@@ -1,0 +1,19 @@
+# Node modules folder
+node_modules/
+
+# Build output folder
+dist/
+build/
+
+# Environment variables file
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional IDE/editor files
+.vscode/
+.idea/
+.DS_Store
